@@ -1,6 +1,6 @@
 # Página Criativa Romântica 💖
 
-Este repositório contém uma página web feita com carinho para um namorado, com música, imagem e texto romântico.
+Este repositório contém uma página web feita com carinho para meu namorado, com música, imagem e texto romântico.
 
 ---
 
