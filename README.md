@@ -9,8 +9,8 @@ Este repositório contém uma página web feita com carinho para meu namorado, c
 A página está publicada via **GitHub Pages** neste link:  
 [https://monnikys.github.io/pagina-criativa/](https://monnikys.github.io/pagina-criativa/)
 
-## 🖼️ Visualização da página
-[🎥 Clique aqui para ver o gif.mp4](gif.gif)
+## 🖼️ Visualização da página  
+![Visualização de gif](paginagif.gif)
 
 ---
 
