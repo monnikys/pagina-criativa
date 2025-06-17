@@ -11,7 +11,6 @@ A página está publicada via **GitHub Pages** neste link:
 
 ## 🖼️ Visualização da página  
 ![Visualização de gif](paginagif.gif)
-
 ---
 
 ## Sobre o projeto
