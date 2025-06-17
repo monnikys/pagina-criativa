@@ -10,7 +10,7 @@ A página está publicada via **GitHub Pages** neste link:
 [https://monnikys.github.io/pagina-criativa/](https://monnikys.github.io/pagina-criativa/)
 
 ## 🖼️ Visualização da página
-
+[🎥 Clique aqui para ver o gif.mp4](gif.gif)
 
 ---
 
