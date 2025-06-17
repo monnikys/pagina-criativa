@@ -1,0 +1,39 @@
+body {
+  background: #fff0f5;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.titulo {
+  font-family: 'Kalam', cursive;
+  color: #e83e8c;
+  font-size: 2.5rem;
+  animation: fadeInDown 2s ease-in-out;
+}
+
+.img-fofa {
+  width: 300px;
+  transition: transform 0.4s ease-in-out;
+  border: 6px solid #ffcce6;
+}
+
+.img-fofa:hover {
+  transform: scale(1.07);
+}
+
+.texto-fofo {
+  font-size: 1.3rem;
+  color: #6c757d;
+  min-height: 100px;
+  padding: 0 20px;
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
