@@ -9,6 +9,9 @@ Este repositório contém uma página web feita com carinho para um namorado, co
 A página está publicada via **GitHub Pages** neste link:  
 [https://monnikys.github.io/pagina-criativa/](https://monnikys.github.io/pagina-criativa/)
 
+## 🖼️ Visualização
+
+
 ---
 
 ## Sobre o projeto
